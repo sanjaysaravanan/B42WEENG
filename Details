@@ -1,0 +1,51 @@
+
+Topics:
+
+    .join() ---> used only for array
+
+    Number() ---> string to number
+
+    Nuber to String
+        number.toString() --> number to string
+        Adding an empty string: adding a number to string will give concatenated string output
+
+    function -->
+        a set of statements into single method/function
+        return can be used to return a value
+
+    Fibonacci Series:
+        0 1 1 2 3 5 8 13 21 34
+    
+    Factorial of a Number
+        5!(factorial) ---> 5 x 4 x 3 x 2 x 1
+
+        Input: 5
+        Output: 120
+
+    Object or Dictionary ( data storing variable ) 
+        key <-> value pair
+        {
+            name: 'Sanjay',
+            role: 'Developer',
+            desgination: 'Software Engineer'
+        }
+
+    Array Problems - Basic Algorithms
+        1. Searching
+        2. Loop inside loop
+        3. Sum Of Arrays
+        4. Largest of an array
+        5. Smallest of an array
+
+    String:
+        str.trim() --> removes both the initial and trailing spaces
+
+
+Nextr Session:
+    Array Reverse, Sorting
+    String:
+        1. Reverse a String
+        2. Palindrome
+
+
+
